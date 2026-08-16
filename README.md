@@ -1,5 +1,22 @@
-# 💫 About Me:
-# 👋 Hi, I'm Khushi Sehgal<br><br>🎓 **B.Tech CSE — Cybersecurity & Privacy** student<br>🔐 Aspiring **Cybersecurity & Software Engineer**<br>💻 Passionate about **Cybersecurity, DSA, Java, Python & Linux**<br><br>I enjoy building projects, solving algorithmic problems, and exploring how technology can be made more secure. I'm currently strengthening my skills in **Cybersecurity, Data Structures & Algorithms, Linux, Networking, and Software Development**.<br><br>### 🚀 Currently Learning<br><br>* 🔐 Cybersecurity & SOC Operations<br>* 🐧 Linux & Networking<br>* 💻 Java & Python<br>* 🧩 Data Structures & Algorithms<br>* 🛡️ Security Tools & Threat Analysis<br><br>### 🛠️ Tech Stack<br><br>`Java` `Python` `C` `SQL` `Linux` `Git` `GitHub` `HTML` `JavaFX`<br><br>### 🎯 Goal<br><br>To build practical security-focused projects and grow into a **strong cybersecurity professional while keeping my software engineering skills sharp.**<br><br>> *Learning. Building. Breaking. Securing. 🔐*<br>
+## 👋 About Me
+
+### Hi, I'm Khushi Sehgal
+
+🎓 **B.Tech CSE — Cybersecurity & Privacy**  
+🔐 **Aspiring Cybersecurity & Software Engineer**  
+💻 **Cybersecurity • DSA • Java • Python • Linux**
+
+I enjoy building projects, solving algorithmic problems, and exploring
+how technology can be made more secure. Currently strengthening my skills
+in cybersecurity, software development, networking, Linux, and DSA.
+
+### 🚀 Currently Learning
+
+- 🔐 Cybersecurity & SOC Operations
+- 🐧 Linux & Networking
+- ☕ Java & Python
+- 🧩 Data Structures & Algorithms
+- 🛡️ Security Tools & Threat Analysis
 
 
 ## 🌐 Socials:
