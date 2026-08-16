@@ -29,10 +29,12 @@ in cybersecurity, software development, networking, Linux, and DSA.
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=k210605&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=k210605&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=k210605&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k210605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BFFF&text_color=E6EDF3)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=k210605&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00BFFF&currStreakLabel=00E5FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k210605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k210605&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
