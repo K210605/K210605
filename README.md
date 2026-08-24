@@ -76,17 +76,21 @@ Hands-on cybersecurity learning covering reconnaissance, networking, web securit
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K210605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BFFF&text_color=E6EDF3" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K210605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" height="165">
+<img src="https://img.shields.io/github/followers/K210605?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/K210605?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/repos/K210605?style=for-the-badge&logo=github&label=Repositories" />
 
 </p>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/github/last-commit/K210605/K210605?style=for-the-badge&logo=github&label=Last%20Profile%20Update" />
+
+</p>
 
 ## 🐍 Contribution Snake
 
