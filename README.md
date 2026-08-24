@@ -6,11 +6,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khushi-sehgal-72a9aa286/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/K210605)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Ksehagl384@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sehgal-72a9aa286/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K210605)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ksehagl384@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=K210605\&color=00E5FF\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=K210605&color=00E5FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -27,24 +27,16 @@ I'm **Khushi Sehgal**, a B.Tech CSE student specializing in **Cybersecurity & Pr
 
 ---
 
-## 🛠️ Toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,linux,vscode,html,css&perline=10">
-</p>
-
----
-
 ## 📊 Skill Snapshot
 
-| Area             | Focus                                |
-| ---------------- | ------------------------------------ |
+| Area | Focus |
+|---|---|
 | 🔐 Cybersecurity | SOC, Security Tools, Threat Analysis |
-| ☕ Development    | Java, JavaFX, Python                 |
-| 🐧 Systems       | Linux, Networking                    |
-| 🧩 Algorithms    | DSA & Problem Solving                |
-| 🗄️ Database     | MySQL, SQL                           |
-| 🛠️ Tools        | Git, GitHub, VS Code, Maven          |
+| ☕ Development | Java, JavaFX, Python |
+| 🐧 Systems | Linux, Networking |
+| 🧩 Algorithms | DSA & Problem Solving |
+| 🗄️ Database | MySQL, SQL |
+| 🛠️ Tools | Git, GitHub, VS Code, Maven |
 
 ---
 
@@ -75,12 +67,11 @@ Hands-on security practice covering reconnaissance, networking, web security, SQ
 **Tech:** Linux • Networking • Cybersecurity Tools
 
 ---
----
 
 ## 🚀 What I'm Working On
 
 - 🔐 Building cybersecurity-focused projects with Java and Python
-- 🧩 Strengthening Data Structures & Algorithms for software engineering roles
+- 🧩 Strengthening Data Structures & Algorithms
 - 🐧 Practicing Linux, networking and security fundamentals
 - 🛡️ Exploring SOC operations, threat analysis and security tools
 - 💻 Improving problem-solving through hands-on projects and labs
@@ -95,8 +86,6 @@ I'm interested in building secure, reliable and practical solutions while contin
 
 ---
 
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -105,7 +94,18 @@ I'm interested in building secure, reliable and practical solutions while contin
 
 ---
 
-</p>
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
