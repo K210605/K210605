@@ -1,50 +1,105 @@
-## 👋 About Me
+<div align="center">
 
-### Hi, I'm Khushi Sehgal
+# 👋 Hi, I'm Khushi Sehgal
 
-🎓 **B.Tech CSE — Cybersecurity & Privacy**  
-🔐 **Aspiring Cybersecurity & Software Engineer**  
-💻 **Cybersecurity • DSA • Java • Python • Linux**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Privacy+Student;Aspiring+Cybersecurity+%26+Software+Engineer;Java+%7C+Python+%7C+Linux+%7C+DSA;Building+%C2%B7+Learning+%C2%B7+Securing">
 
-I enjoy building projects, solving algorithmic problems, and exploring
-how technology can be made more secure. Currently strengthening my skills
-in cybersecurity, software development, networking, Linux, and DSA.
+<br>
 
-### 🚀 Currently Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khushi-sehgal-72a9aa286/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/K210605)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Ksehagl384@gmail.com)
 
-- 🔐 Cybersecurity & SOC Operations
-- 🐧 Linux & Networking
-- ☕ Java & Python
-- 🧩 Data Structures & Algorithms
-- 🛡️ Security Tools & Threat Analysis
+![Profile Views](https://komarev.com/ghpvc/?username=K210605\&color=00E5FF\&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## `~/whoami`
+
+Hi, I'm **Khushi Sehgal**, a B.Tech CSE student specializing in **Cybersecurity & Privacy**.
+
+* 🔐 Exploring **Cybersecurity, SOC Operations & Threat Analysis**
+* 💻 Building projects with **Java, Python and JavaFX**
+* 🐧 Strengthening my skills in **Linux, Networking and Security**
+* 🧩 Practicing **Data Structures & Algorithms**
+
+---
+
+## 🛠️ Toolbox
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,linux,vscode,html,css&perline=10">
+</p>
+
+---
+
+## 📊 Skill Snapshot
+
+| Area             | Focus                                             |
+| ---------------- | ------------------------------------------------- |
+| 🔐 Cybersecurity | SOC Operations • Threat Analysis • Security Tools |
+| ☕ Development    | Java • JavaFX • Python                            |
+| 🐧 Systems       | Linux • Networking                                |
+| 🧩 Algorithms    | Data Structures & Algorithms                      |
+| 🗄️ Database     | MySQL • SQL                                       |
+| 🛠️ Tools        | Git • GitHub • VS Code • Maven                    |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Password Cracker Toolkit
+
+A Java-based cybersecurity project exploring password-cracking techniques, hashing and password-generation approaches.
+
+**Tech:** Java • JavaFX • Maven • Cryptography
+
+### 🌳 MST Visualizer
+
+An interactive visualization of **Kruskal's and Prim's algorithms** for understanding Minimum Spanning Trees.
+
+**Tech:** Java • JavaFX • Algorithms
+
+### 🧮 Matrix Chain Multiplication Visualizer
+
+A GUI-based implementation of Matrix Chain Multiplication for finding optimal matrix parenthesization.
+
+**Tech:** Java • JavaFX • Dynamic Programming
+
+### 🛡️ Cybersecurity Practice
+
+Hands-on cybersecurity learning covering reconnaissance, networking, web security, SQL injection and security tools.
+
+**Focus:** Linux • Networking • Cybersecurity
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=K210605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BFFF&text_color=E6EDF3" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K210605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" height="165">
+
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/K210605/K210605/gh-pages/github-contribution-grid-snake.svg)
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/K210605/K210605/output/snake-dark.svg" alt="GitHub Contribution Snake">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-sehgal-72a9aa286/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ksehgal384/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Pure_Analyst2304/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ksehgal210605) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ksehagl384@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k210605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BFFF&text_color=E6EDF3)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=k210605&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00BFFF&currStreakLabel=00E5FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k210605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=k210605&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=k210605&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=k210605&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### `Build. Learn. Secure.`
+
+</div>
